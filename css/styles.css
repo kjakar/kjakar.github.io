@@ -1,41 +1,31 @@
-#sectionOne{
 
-    padding-top: 70px;
+#sectionOne{
     width : 100%;
-    margin-top: 250px;
-    margin-bottom: 250px;
+    padding-bottom: 250px;
     text-align: center;
 }
-
 #sectionTwo{
-
     padding-top: 70px;
     width : 100%;
-    margin-top: 250px;
-    margin-bottom: 250px;
-    text-align: center;
+    padding-bottom: 250px;
+    text-align: center
 }
 #sectionThree{
-
     padding-top: 70px;
     width : 100%;
-    margin-top: 250px;
-    margin-bottom: 250px;
-    text-align: center;
+    padding-bottom: 250px;
+    text-align: center
 }
 #sectionFour{
-
     padding-top: 70px;
     width : 100%;
-    margin-top: 250px;
-    margin-bottom: 250px;
-    text-align: center;
+    padding-bottom: 250px;
+    text-align: center
 }
 #sectionFive{
-
     padding-top: 70px;
     width : 100%;
-    margin-top: 250px;
-    margin-bottom: 2500px;
-    text-align: center;
+    padding-bottom: 250px;
+    text-align: center
 }
+
